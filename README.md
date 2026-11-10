@@ -1,36 +1,32 @@
-# 🎮 Unity 2D World Adventure
+# 🎮 Unity 2D World Adventure (Android Version)
 
-Game petualangan 2D *side-scrolling* sederhana namun seru di mana pemain harus berlari, menghindari rintangan, mengumpulkan koin, dan mencapai garis finis dengan batasan nyawa tertentu!
+Game petualangan 2D *side-scrolling* berbasis Android di mana pemain harus berlari, menghindari rintangan, mengumpulkan koin, dan mencapai garis finis dengan batas 3 nyawa!
 
 ---
 
 ## ✨ Fitur Game
-* **Kontrol Kiri & Kanan:** Karakter dapat bergerak bebas maju dan mundur di sepanjang jalur permainan.
-* **Mekanik Melompat:** Lompat untuk melewati rintangan batu dan meraih item.
-* **Sistem Kumpulan Koin:** Ambil koin sebanyak-banyaknya di sepanjang perjalanan.
-* **Sistem Nyawa (Lives):** Pemain dibekali **3 nyawa**. Nyawa akan berkurang jika menabrak batu/rintangan.
-* **Garis Finis:** Capai garis akhir untuk menyelesaikan level permainan.
+* **Side-Scrolling Gameplay:** Karakter berlari menyusuri petualangan seru menuju garis finis.
+* **Sistem Koin:** Kumpulkan koin sebanyak-banyaknya di sepanjang perjalanan.
+* **Sistem Nyawa (3 Lives):** Nyawa pemain dibatasi 3 buah dan akan berkurang jika menabrak rintangan batu.
+* **Rintangan Batu:** Hindari batu yang menghalangi jalan agar bertahan hidup hingga akhir.
+* **Platform Android:** Dirancang khusus untuk perangkat mobile/smartphone Android.
 
 ---
 
-## 🕹️ Panduan Kontrol Tombol
-| Aksi | Tombol Keyboard / Kontrol |
-| :--- | :--- |
-| **Gerak ke Kanan / Kiri** | Tombol Panah Kanan / Kiri (atau `A` / `D`) |
-| **Melompat** | Tombol Spasi (*Spacebar*) / Panah Atas |
+## 🕹️ Kontrol Permainan (Mobile Touch)
+* **Berjalan Kanan / Kiri:** Sentuh tombol navigasi arah di layar HP.
+* **Melompat:** Sentuh tombol lompat (*Jump*) di layar untuk menghindari batu.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 * **Game Engine:** Unity (2D)
 * **Programming Language:** C#
-* **IDE:** Visual Studio / VS Code
+* **Platform Target:** Android (`.apk`)
 
 ---
 
-## 🚀 Cara Menjalankan Project (Untuk Developer)
-Jika kamu ingin membuka atau mengedit *source code* game ini melalui Unity Editor:
-1. Pastikan kamu sudah menginstal **Unity Hub** dan versi Unity yang sesuai.
-2. Lakukan *clone* repository ini ke komputer kamu:
-   ```bash
-   git clone [https://github.com/ZEVIRS/unity-2d-world-adventure.git](https://github.com/ZEVIRS/unity-2d-world-adventure.git)
+## 📥 Download & Install Game (.apk)
+Ingin mencoba memainkan game ini di HP Android kamu?
+1. Download file instalasi **`.apk`** melalui menu **[Releases](https://github.com/ZEVIRS/unity-2d-world-adventure/releases)** di sebelah kanan halaman repository ini.
+2. Install file `.apk` tersebut di perangkat Android kamu dan nikmati keseruannya!
